@@ -1,0 +1,2 @@
+This folder is created for the downloaded eval package.
+The installer places nn.bin here automatically.

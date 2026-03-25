@@ -1,0 +1,3 @@
+This folder is prepared automatically.
+Do not commit yaneuraou.exe or eval assets if you want a lightweight public repository.
+Start START_LOCAL_YANEOURAOU_BRIDGE.cmd and the required files will be downloaded here.

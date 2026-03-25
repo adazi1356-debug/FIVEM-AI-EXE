@@ -1,0 +1,21 @@
+{
+  "listenPrefix": "http://127.0.0.1:18777/",
+  "engineExePath": "engine\\yaneuraou.exe",
+  "evalDir": "engine\\eval",
+  "hashMb": 64,
+  "threads": 1,
+  "multiPv": 1,
+  "fvScale": 20,
+  "displayName": "ローカルやねうら王",
+  "timeoutPaddingMs": 6000,
+  "defaultThinkTimeoutPaddingMs": 6000,
+  "customDifficulty": {
+    "moveTimeMs": 8000,
+    "depth": null,
+    "timeoutPaddingMs": 7000,
+    "hashMb": 256,
+    "threads": 2,
+    "multiPv": 1,
+    "fvScale": 20
+  }
+}
